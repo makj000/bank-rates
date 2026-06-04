@@ -1,0 +1,24 @@
+{
+  "banks": [
+    {
+      "name": "Capital One",
+      "url": "https://www.capitalone.com/bank/savings-accounts/online-performance-savings-account/",
+      "strategy": "apy"
+    },
+    {
+      "name": "Fidelity",
+      "url": "https://finance.yahoo.com/quote/SPAXX/",
+      "strategy": "7day"
+    },
+    {
+      "name": "Marcus",
+      "url": "https://www.marcus.com/us/en/savings/high-yield-savings",
+      "strategy": "apy"
+    },
+    {
+      "name": "American Express",
+      "url": "https://www.americanexpress.com/en-us/banking/online-savings/high-yield-savings-account/",
+      "strategy": "apy"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+ - Capital One 3.3%
+ - Coinbase USDC 3.5%
+ - fidelity 3.3%
+ - Marcus (Goldman Sachs) 3.3%
+ - America Express 3.5%
